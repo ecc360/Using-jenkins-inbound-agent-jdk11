@@ -23,4 +23,6 @@ Puedes obtener la imagen directamente desde Docker Hub con:
 ```bash
 docker pull ecc360/inbound-agent-kubectl:latest-jdk21
 
+### Capturas de la configuracion desde jenkins
+
 ![imagen](https://github.com/ecc360/Using-jenkins-inbound-agent-jdk11/raw/main/images/Screenshot_1.png)
