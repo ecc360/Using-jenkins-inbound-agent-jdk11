@@ -27,3 +27,21 @@ docker pull ecc360/inbound-agent-kubectl:latest-jdk21
 ### Capturas de la configuracion desde jenkins
 
 ![imagen](https://github.com/ecc360/Using-jenkins-inbound-agent-jdk11/raw/main/images/Screenshot_1.png)
+
+![imagen](https://github.com/ecc360/Using-jenkins-inbound-agent-jdk11/raw/main/images/Screenshot_2.png)
+
+![imagen](https://github.com/ecc360/Using-jenkins-inbound-agent-jdk11/raw/main/images/Screenshot_3.png)
+
+![imagen](https://github.com/ecc360/Using-jenkins-inbound-agent-jdk11/raw/main/images/Screenshot_4.png)
+
+![imagen](https://github.com/ecc360/Using-jenkins-inbound-agent-jdk11/raw/main/images/Screenshot_5.png)
+
+![imagen](https://github.com/ecc360/Using-jenkins-inbound-agent-jdk11/raw/main/images/Screenshot_6.png)
+
+![imagen](https://github.com/ecc360/Using-jenkins-inbound-agent-jdk11/raw/main/images/Screenshot_7.png)
+
+![imagen](https://github.com/ecc360/Using-jenkins-inbound-agent-jdk11/raw/main/images/Screenshot_8.png)
+
+![imagen](https://github.com/ecc360/Using-jenkins-inbound-agent-jdk11/raw/main/images/Screenshot_9.png)
+
+![imagen](https://github.com/ecc360/Using-jenkins-inbound-agent-jdk11/raw/main/images/Screenshot_10.png)
