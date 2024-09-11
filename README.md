@@ -1,4 +1,4 @@
-﻿# Using-jenkins-inbound-agent-jdk11
+﻿# Using-jenkins-inbound-agent-jdk21
 
 ### Dockerfile para Agente Entrante de Jenkins con Kubernetes CLI y Python 3
 
